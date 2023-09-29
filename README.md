@@ -1,1 +1,1 @@
-Pizza Delivery App with advance aniamtion
+Pizza Delivery App with advance animation.
